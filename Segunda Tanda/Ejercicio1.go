@@ -15,7 +15,7 @@ func main() {
 
 	if numero1 > numero2 {
 		fmt.Printf("El mayor es %d", numero1)
-	} else if numero2 > numero1 {
+	} else {
 		fmt.Printf("El mayor es %d", numero2)
 	}
 
